@@ -1,0 +1,16 @@
+{
+  "name": "week13-friendfinder",
+  "version": "1.0.0",
+  "description": "Week 13 Homework Assignment",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Armando dIAZ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
